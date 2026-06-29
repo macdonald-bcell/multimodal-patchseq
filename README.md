@@ -149,7 +149,7 @@ Claude (Anthropic, claude.ai) was used to refactor analytical code into reusable
 
 ## Citation
 
-Maghera J, Ellis CE, et al. (2026). Multi-modal comparison of primary and stem cell-derived β-cells nominates targets for maturation. *[Journal — to be added]*.
+Maghera J, Ellis CE,  Spigelman AF, Smith N, Sasaki S, Lynn FC, MacDonald PE. (2026) Multi-modal comparison of primary and stem cell-derived β-cells nominates targets for maturation. bioRxiv, doi.org/10.64898/2026.06.04.730032.
 
 ---
 
